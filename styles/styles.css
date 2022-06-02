@@ -1,0 +1,5 @@
+.main-bg-image {
+    background-image: url('../assets/images/travel-hero.jpeg');
+    background-size: 100% auto;
+    background-position: bottom;
+}
